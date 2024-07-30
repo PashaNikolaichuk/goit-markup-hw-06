@@ -972,37 +972,7 @@ button {
   .page-footer {
     background-color: #2e2f42;
     padding: 100px 0;
-    gap: none;
   }
-
-  /* .footer-logo {
-    display: inline-block;
-    margin-bottom: 16px;
-  }
-
-  .footer-container {
-    display: flex;
-    align-items: baseline;
-  }
-
-  .footer-social-media {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .logo-subcontainer {
-    margin-right: 120px;
-  }
-
-  .footer-icon-list {
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-  }
-
-  .footer-form-icon {
-    margin-left: 16px;
-  } */
 }
 
 /* modal */
